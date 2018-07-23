@@ -1,4 +1,4 @@
-#TOBA_BONUS_TYPE 卷烟积分类型参数表
+# TOBA_BONUS_TYPE 卷烟积分类型参数表
 
 CODE|NAME
 ---|:--:|
@@ -11,7 +11,7 @@ COM_NAME	|所属地市名称
 ENABLE	|是否启用
 
 ----
-#TOBA_BONUS_BRAND 卷烟品牌参数表
+# TOBA_BONUS_BRAND 卷烟品牌参数表
 
 CODE|NAME
 ---|:--:|
@@ -22,7 +22,7 @@ PER_BONUS	|单条积分
 COM_CODE	|所属地市编码
 COM_NAME	|所属地市名称
 ---
-#TOBA_BONUS_ITEM 卷烟规格参数表
+# TOBA_BONUS_ITEM 卷烟规格参数表
 
 CODE|NAME
 ---|:--:|
@@ -33,7 +33,7 @@ PER_BONUS	|单条积分
 COM_CODE	|所属地市编码
 COM_NAME	|所属地市名称
 ---
-#TOBA_BONUS_SPEC_ITEM 重点卷烟规格参数表
+# TOBA_BONUS_SPEC_ITEM 重点卷烟规格参数表
 
 CODE|NAME
 ---|:--:|
@@ -44,7 +44,7 @@ PER_BONUS	|单条积分
 COM_CODE	|所属地市编码
 COM_NAME	|所属地市名称
 ---
-#TOBA_BONUS_ITEM_EXCLUE 卷烟规格参数排他表
+# TOBA_BONUS_ITEM_EXCLUE 卷烟规格参数排他表
 
 CODE|NAME
 ---|:--:|
@@ -54,7 +54,7 @@ ITEM_NAME	|卷烟规格名称
 COM_CODE	|所属地市编码
 COM_NAME	|所属地市名称
 ---
-#TOBA_BONUS 卷烟积分表
+# TOBA_BONUS 卷烟积分表
 
 CODE|NAME
 ---|:--:|
